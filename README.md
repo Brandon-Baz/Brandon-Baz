@@ -30,9 +30,6 @@ Stay tuned for updates!
 ## 📈 GitHub Stats
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandon-baz&show_icons=true&hide_title=true&count_private=true&theme=synthwave)
 
-## 📫 Connect with Me
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/coburnbrandon) for networking or collaboration opportunities!
-
 # Brandon's Career Timeline
 
 ## 🗓️ 2012: Military Discharge
@@ -85,5 +82,8 @@ Role details:
 - **Focus**: Applying programming skills in a professional environment
 
 ---
+
+## 📫 Connect with Me
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/coburnbrandon) for networking or collaboration opportunities!
 
 Thanks for stopping by my profile! Let's innovate together! 🚀
