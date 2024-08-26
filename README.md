@@ -33,45 +33,56 @@ Stay tuned for updates!
 ## 📫 Connect with Me
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/coburnbrandon) for networking or collaboration opportunities!
 
-## 🎉 Fun Fact
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Career Timeline</title>
-</head>
-<body style="font-family: Arial, sans-serif; background: #f4f4f4; margin: 0; padding: 20px;">
+# Brandon's Career Timeline
 
-<h1>🎉 My Career Timeline</h1>
+## 🗓️ 2012: Military Discharge
 
-<div class="timeline" style="position: relative; max-width: 600px; margin: auto;">
-    <div class="timeline-item" style="background: white; border-radius: 6px; padding: 20px; margin: 10px 0; position: relative;">
-        <h3 style="margin-top: 0;">🗓️ 2012: Military Discharge</h3>
-        <p style="margin-bottom: 0;">Transitioned into civilian life after serving in the military.</p>
-    </div>
-    <div class="timeline-item" style="background: white; border-radius: 6px; padding: 20px; margin: 10px 0; position: relative;">
-        <h3 style="margin-top: 0;">🏬 2012 - 2017: Store Management & Small Business Acquisitions</h3>
-        <p style="margin-bottom: 0;">Worked with AT&T in various management roles, gaining valuable experience in operations and customer service.</p>
-    </div>
-    <div class="timeline-item" style="background: white; border-radius: 6px; padding: 20px; margin: 10px 0; position: relative;">
-        <h3 style="margin-top: 0;">💻 2017: Self-Taught Programming</h3>
-        <p style="margin-bottom: 0;">Started self-teaching programming languages and technologies on my own, focusing on Python and JavaScript.</p>
-    </div>
-    <div class="timeline-item" style="background: white; border-radius: 6px; padding: 20px; margin: 10px 0; position: relative;">
-        <h3 style="margin-top: 0;">🚀 2021: Committed to Tech Career</h3>
-        <p style="margin-bottom: 0;">Fully committed to a career in software development and engineering, enrolling in online courses to enhance my skills.</p>
-    </div>
-    <div class="timeline-item" style="background: white; border-radius: 6px; padding: 20px; margin: 10px 0; position: relative;">
-        <h3 style="margin-top: 0;">🌟 2022: First Full-Time Role</h3>
-        <p style="margin-bottom: 0;">Secured my first full-time role at Wolfjaw Studios in November 2022, marking a significant milestone in my career.</p>
-    </div>
-</div>
+> Transitioned into civilian life after serving in the military.
 
-</body>
-</html>
+---
 
+## 🏬 2012 - 2017: Store Management & Small Business Acquisitions
 
-My path to becoming a Software Engineer was not orthodox. After my military discharge in 2012, I spent five years in Store Management and Small Business Acquisitions with AT&T. I started self-teaching programming in 2017 and fully committed to my career in tech in 2021. I secured my first full-time role at Wolfjaw Studios in November 2022.
+> Worked with AT&T in various management roles, gaining valuable experience in operations and customer service.
+
+Key achievements:
+- Managed multiple store locations
+- Gained expertise in customer service
+- Developed leadership and operational skills
+
+---
+
+## 💻 2017: Self-Taught Programming
+
+> Started self-teaching programming languages and technologies on my own, focusing on Python and JavaScript.
+
+Languages and technologies learned:
+- Python
+- JavaScript
+- HTML/CSS
+- Git version control
+
+---
+
+## 🚀 2021: Committed to Tech Career
+
+> Fully committed to a career in software development and engineering, enrolling in online courses to enhance my skills.
+
+Steps taken:
+1. Enrolled in online coding bootcamps
+2. Completed numerous projects to build portfolio
+3. Networked with professionals in the tech industry
+
+---
+
+## 🌟 November 2022: First Full-Time Role
+
+> Secured my first full-time role at Wolfjaw Studios, marking a significant milestone in my career.
+
+Role details:
+- **Company**: Wolfjaw Studios
+- **Position**: Software Developer
+- **Focus**: Applying programming skills in a professional environment
 
 ---
 
