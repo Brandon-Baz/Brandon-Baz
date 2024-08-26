@@ -60,7 +60,7 @@ I have multiple projects in the planning phase where I focus on:
 Stay tuned for updates!
 
 ## 📈 GitHub Stats
-![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=coburnbrandon&show_icons=true&hide_title=true&count_private=true&theme=synthwave)
+![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandon-baz&show_icons=true&hide_title=true&count_private=true&theme=synthwave)
 
 ## 📫 Connect with Me
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/coburnbrandon) for networking or collaboration opportunities!
