@@ -19,8 +19,6 @@ I'm a **Software Engineer** with a passion for **AI Innovations** and the **Ethi
 |------------------------------------|
 | ![Agile Badge](https://img.shields.io/badge/Agile-FFCC00?style=flat) ![Scrum Badge](https://img.shields.io/badge/Scrum-FF6F00?style=flat) |
 
-Stay tuned for updates!
-
 ## 📈 GitHub Stats
 ![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brandon-baz&show_icons=true&hide_title=true&count_private=true&theme=synthwave)
 
@@ -29,6 +27,8 @@ I have multiple projects in the planning phase where I focus on:
 - Prioritizing tasks
 - Task decomposition
 - Creating roadmaps
+
+Stay tuned for updates!
 
 # Brandon's Career Timeline
 
