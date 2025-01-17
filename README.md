@@ -86,4 +86,5 @@ Role details:
 ## 📫 Connect with Me
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/coburnbrandon) for networking or collaboration opportunities!
 
+Or schedule a Discovery Call and let's see how my skills can benefit your company! [Discovery Call](https://tidycal.com/19lk0x1/discovery-call)
 Thanks for stopping by my profile! Let's innovate together! 🚀
