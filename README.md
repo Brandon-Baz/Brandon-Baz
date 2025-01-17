@@ -2,6 +2,8 @@
 
 I'm a **Software Engineer** with a passion for **AI Innovations** and the **Ethical Uses of AI**. My journey into technology has been unique, and I strive to bring diverse insights to my work.
 
+Book a [Discovery Call](https://tidycal.com/19lk0x1/discovery-call) and let's discuss how my skills can help drive your companies progress towards its goals!
+
 ## My Avatar is Anubis
 <img src="https://github.com/user-attachments/assets/2e8fefd2-eea1-4ab5-a69f-48f52f26a3d2" alt="My Avatar" height=300 weight=300>
 
