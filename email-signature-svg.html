@@ -9,6 +9,7 @@
 
     <!-- Premium Name Section -->
     <div style="margin-bottom: 15px; position: relative;">
+        <h2 style="margin: 0; background: linear-gradient(45deg, #2C3E50, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; font-weight: 800;">Brandon Coburn</h2>
         <p style="margin: 5px 0; color: #FF6B6B; font-size: 16px; font-weight: 600; letter-spacing: 2px; text-transform: uppercase;">Senior Software Engineer</p>
     </div>
 
@@ -20,10 +21,9 @@
              onmouseout="this.style.filter='drop-shadow(0 4px 6px rgba(0,0,0,0.1))'">
     </div>
 
-    <!-- Stylized Tagline -->
+    <!-- Quote Section -->
     <div style="position: relative; padding-left: 15px; border-left: 2px solid #FFD700;">
-        <span style="color: #444; font-style: italic; font-size: 16px; font-weight: 600; display: block; margin-bottom: 8px;">From Big Bangs To Big Ideas.</span>
-        <span style="color: #666; font-style: italic; font-size: 15px; line-height: 1.8; display: block;">Just as the cosmos continuously expands into new frontiers, we harness AI to push technology beyond current boundaries. Crafting intelligent solutions that evolve and adapt, revolutionizing the digital landscape.</span>
+        <span style="color: #444; font-style: italic; font-size: 16px; font-weight: 600; display: block; margin-bottom: 8px;">"Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson</span>
     </div>
 
     <!-- Premium Contact Section -->
@@ -40,7 +40,16 @@
     <!-- TidyCal Booking Section -->
     <div style="margin: 20px 0; padding: 15px 0; border-top: 2px solid rgba(255,215,0,0.5); border-bottom: 2px solid rgba(255,215,0,0.5);">
         <a href="https://tidycal.com/19lk0x1/discovery-call" 
-           class="social-icon"
+           style="display: flex; align-items: center; text-decoration: none; color: #2C3E50; transition: all 0.3s ease;"
+           onmouseover="this.style.color='#FF6B6B'"
+           onmouseout="this.style.color='#2C3E50'">
+            <span style="color: #FF6B6B; font-size: 22px; margin-right: 10px; animation: pulse 2s infinite;">📅</span>
+            <span style="font-weight: 500; letter-spacing: 0.5px;">Book a meeting with me</span>
+        </a>
+    </div>
+
+    <!-- Premium Social Icons -->
+    <div style="display: flex; gap: 15px; margin-top: 20px;">
         <a href="https://linkedin.com/in/coburnbrandon" 
            style="padding: 8px; border-radius: 50%; background: linear-gradient(45deg, #0077B5, #00A0DC); box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: all 0.3s ease;"
            onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)'"
@@ -62,6 +71,18 @@
             0% { transform: scale(1); }
             50% { transform: scale(1.1); }
             100% { transform: scale(1); }
+        }
+
+        .social-icon {
+            display: flex;
+            align-items: center;
+            text-decoration: none;
+            color: #2C3E50;
+            transition: all 0.3s ease;
+        }
+
+        .social-icon:hover {
+            color: #FF6B6B;
         }
     </style>
 </div>
